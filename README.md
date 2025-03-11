@@ -10,7 +10,7 @@ Now students can track their previous complaints and create a new complaint by v
 
 Students can login and create there complaint. Is also contain features like filtering, viewing past complaints, updating profile and many more.
 
-![Complaint box](https://github.com/anjali726/Team-28-Mini-Project/assets/113389230/88bf9cea-5742-49eb-8cae-8870f4742e81)
+![Complaint box](https://github.com/prakash0512/Hostel-Complaint-Management-System/assets/113389230/88bf9cea-5742-49eb-8cae-8870f4742e81)
 
 ## Installation
 
@@ -19,7 +19,7 @@ First you have to clone the github url of this project. Simply copy the https, s
 Write the below script in your terminal.
 
 ```bash
-git clone https://github.com/anjali726/Team-28-Mini-Project.git
+git clone https://github.com/prakash0512/Hostel-Complaint-Management-System.git
 ```
 
 go to project folder
