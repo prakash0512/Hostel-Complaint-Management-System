@@ -6,7 +6,7 @@ It solves the problem of maintaining the daily complaints and assigs the task to
 
 Now students can track their previous complaints and create a new complaint by visiting the site.
 
-![login screen](https://github.com/anjali726/Team-28-Mini-Project/assets/113389230/d8804337-2f4b-498d-b4da-05f614920d16)
+![login screen](https://github.com/prakash0512/Hostel-Complaint-Management-System.git)
 
 Students can login and create there complaint. Is also contain features like filtering, viewing past complaints, updating profile and many more.
 
